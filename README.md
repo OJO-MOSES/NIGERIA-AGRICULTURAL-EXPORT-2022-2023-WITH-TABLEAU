@@ -111,6 +111,9 @@ The products with the lesser profit margins are Palm Oil (19.5%), Plantain (19.9
 * Comparison between the performance of different companies based on units sold and profit generated?
 The companies with the highest profits are Agro Export Nigeria Ltd (₦383,051,968.36) and Golden Farms Nigeria Limited (₦371,301,964.09). These companies seem to have the most successful operations in terms of profitability.
 The companies with the highest total units sold are Golden Farms Nigeria Limited (60,724 units) and Agro Export Nigeria Ltd (59,944 units). These companies appear to have the highest demand for their products.
+
+### The visualizaton can be comprehensively viewed [here](https://public.tableau.com/views/NIGERIAAGRICUTURALEXPORT2020-2023/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 ### Recommendations
 Here are some recommendations for Nigeria's agricultural export stakeholders:
 1. The farmers should ensure that crops meet international standards to increase marketability and demand and to invest more on modern farming practices and technologies to increase efficiency and reduce costs.
@@ -121,5 +124,6 @@ Here are some recommendations for Nigeria's agricultural export stakeholders:
 * Enhance Quality Control
 * Develop a Stronger Marketing Strategy
 * Seek Professional Guidance
+* 
 ### Limitation
 The dataset only includes data from 2020 to 2023, which could restrict the analysis of recent Agricultural Export trends, and dataset came with potential issues.
