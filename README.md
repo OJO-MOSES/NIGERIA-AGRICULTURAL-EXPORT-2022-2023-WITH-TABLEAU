@@ -60,9 +60,13 @@ As a crucial step in data analysis, I performed few preprocessing steps using Po
 - Are there any outliers or underperforming products/companies that needs attention.
 
 ### Results
+![Screenshot 2024-06-18 110520](https://github.com/OJO-MOSES/NIGERIA-AGRICULTURAL-EXPORT-2022-2023-WITH-TABLEAU/assets/113169345/c76e9500-22b6-4204-90bd-45241100b9d5)
+
 
 * Sesame is the top-selling product with sales of 76,132 units, closely followed by cocoa with sales of 76.129 units, then Cashew with sales of 70833 unit. These three products are the leading contributors to country’s export sector.
-  
+
+  ![Screenshot 2024-06-18 104128](https://github.com/OJO-MOSES/NIGERIA-AGRICULTURAL-EXPORT-2022-2023-WITH-TABLEAU/assets/113169345/60060a68-b97f-4ab5-b101-09f5b592645f)
+
 * The company with the highest sales revenue:
 Agro Export Nigeria Ltd emerged as the company the highest sales revenue even though it is the second company in units of goods sold ranking.
 Now this leads to the next question “What factors contributed to Agro Export Nigeria Ltd generating the highest revenue, despite being the company with the second-highest sales volume?”
@@ -74,6 +78,9 @@ Denmark and Italy have the highest sales volumes, closely followed by France. Th
 In terms of revenue generation, Italy leads on average, outperforming other countries. France and Denmark trail closely behind, generating average 1. revenues of 17 million and 16.5 million naira respectively. It’s noteworthy that Sweden, despite its efforts, records the lowest average revenue, amounting to 14.7 million naira.
 * Total units sold across export countries:
 Denmark and Italy are tied for the top spot in terms of sales volume. Hot on their heels are France and Switzerland, with sales figures of 57 thousand and 54 thousand respectively. On the lower end of the scale, Spain, the Netherlands, and Germany rank lower compared to the leading countries.
+
+![Screenshot 2024-06-18 104328](https://github.com/OJO-MOSES/NIGERIA-AGRICULTURAL-EXPORT-2022-2023-WITH-TABLEAU/assets/113169345/99bd7c6e-92a1-4f1d-bbab-932c8add32f5)
+
 * Is there any correlation between the units sold and the profit generated?
 There is a strong positive linear correlation between the units sold and the profit generated which implies that as the number of units sold increases so does the profit generated.
 * How do sales vary over time and are there seasonal trends?
@@ -93,6 +100,9 @@ On the other end of the scale, the product with the lowest COGS is Ginger, with 
 The remaining products, including Sesame, Palm Oil, Cashew, Cassava, Plantain, and Rubber, have COGS values ranging from approximately 1.50 to 1.79 billion naira. This suggests a relatively similar cost structure or production volume for these products.
 
 #### GEOGRAPHIC ANALYSIS
+
+![Screenshot 2024-06-18 104228](https://github.com/OJO-MOSES/NIGERIA-AGRICULTURAL-EXPORT-2022-2023-WITH-TABLEAU/assets/113169345/ee8774b7-5d8c-41cb-8a97-f149c8ee10d2)
+
 * Which destination ports receive the highest volume of exports?
 Lagos, as a major economic hub is the leading destination port in terms of export volume. It has received the highest volume of exports, with a substantial figure of 316 thousand. This not only underscores Lagos’ crucial role in the agricultural export sector but also indicates a potentially vibrant market and robust demand in the region.
 This finding suggests that businesses exporting to Lagos have access to a large and potentially diverse market.
@@ -112,7 +122,7 @@ The products with the lesser profit margins are Palm Oil (19.5%), Plantain (19.9
 The companies with the highest profits are Agro Export Nigeria Ltd (₦383,051,968.36) and Golden Farms Nigeria Limited (₦371,301,964.09). These companies seem to have the most successful operations in terms of profitability.
 The companies with the highest total units sold are Golden Farms Nigeria Limited (60,724 units) and Agro Export Nigeria Ltd (59,944 units). These companies appear to have the highest demand for their products.
 
-### The visualizaton can be comprehensively viewed [here](https://public.tableau.com/views/NIGERIAAGRICUTURALEXPORT2020-2023/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### The visualizaton can be comprehensively viewed [here](https://public.tableau.com/views/NIGERIAAGRICUTURALEXPORT2020-2023/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) on Tableau.
 
 ### Recommendations
 Here are some recommendations for Nigeria's agricultural export stakeholders:
